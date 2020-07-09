@@ -7,11 +7,11 @@ I play with Vue.Js, touch React sometimes and love dipping my feets in super coo
 
 When I'm not doing anything tech, I am admiring amazing interior designs and hoping I have the opportunity to go into it soon. I also love photography and play to be a photographer with my smart phone sometimes. 
 
-  🔭 I’m currently working on easing the stress university students pass through in getting accommodations through SeekHostel.
-  🌱 I’m usually learning anything that catches my eye/attention.
-  👯 I’m looking to collaborate on cool projects.
-  💬 Ask me about Vue.Js, WordPress, CSS
-  📫 How to reach me: tosinogunfowote.com
-  😄 Pronouns: Him/He
-  ⚡ Fun fact: I never owned any video game. I could be on the internet the whole day. And yeah I love travelling and trying out new things.
+  - 🔭 I’m currently working on easing the stress university students pass through in getting accommodations through SeekHostel.
+  - 🌱 I’m usually learning anything that catches my eye/attention.
+  - 👯 I’m looking to collaborate on cool projects.
+  - 💬 Ask me about Vue.Js, WordPress, CSS
+  - 📫 How to reach me: tosinogunfowote.com
+  - 😄 Pronouns: Him/He
+  - ⚡ Fun fact: I never owned any video game. I could be on the internet the whole day. And yeah I love travelling and trying out new things.
 
