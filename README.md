@@ -1,13 +1,12 @@
 
 👋 Holla! I'm Tosin Ogunfowote
 
-I am a frontend engineer based in Nigeria with an eye for a number of things. I'm most passionate about building amazing things with nice aesthetics, and most importantly *available to every one on the web.
+I am a frontend engineer based in Nigeria with an eye for a number of things. I'm most passionate about building amazing solutions that works, and most importantly *available to every one on the web.
 
-I play with Javascript and Typescript using ReactJS and Vue.Js. I love dipping my feets in super cool Javascript frameworks and CSS tricks. I'm also a big advocate for WordPress as I've been building stuffs with WordPress since forever (also giving back to the WordPress community as much as I can). I organized the WordCamp Ife Conference in 2019 and looking to do more for the community in coming years.
+I play with Javascript and Typescript using ReactJS and Vue.Js. I love dipping my feets in super cool Javascript frameworks and CSS tricks. I have more than 4 years of experience coding professionally. I'm also a big advocate for WordPress and the no code community.
 
 When I'm not doing anything tech, I am admiring amazing interior designs, photography, or seeing movies.
 
-  - 🔭 I’m currently working on easing the stress university students pass through in getting accommodations through SeekHostel.
   - 🌱 I’m usually learning anything that catches my eye/attention.
   - 👯 I’m looking to collaborate on cool projects.
   - 💬 Ask me about Javascript, Typescript, React, Vue.Js, WordPress, CSS.
