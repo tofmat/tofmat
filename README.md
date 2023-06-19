@@ -15,7 +15,7 @@ I play with Javascript and Typescript using ReactJS and Vue.Js. I love dipping m
 ![Top Langs](https://github-readme-stats-tau-nine-43.vercel.app/api/top-langs/?username=tofmat&count_private=true&langs_count=5)
 
 **My Coding Stats**
-![Tofmat's wakatime stats](https://github-readme-stats-tau-nine-43.vercel.app/api/wakatime?username=tofmat
+![Tofmat's wakatime stats](https://github-readme-stats-tau-nine-43.vercel.app/api/wakatime?username=tofmat)
 
 
 When I'm not doing anything tech, I am admiring amazing interior designs, photography, or seeing movies.
