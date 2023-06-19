@@ -7,7 +7,7 @@ I play with Javascript and Typescript using ReactJS and Vue.Js. I love dipping m
 
 **General Statistics**
 
-![Tosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofmat&show_icons=true&theme=dark)
+![Tosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofmat&count_private=true&show_icons=true&theme=dark)
 
 **My Top Languages**
 
