@@ -7,7 +7,7 @@ I play with Javascript and Typescript using ReactJS and Vue.Js. I love dipping m
 
 **General Statistics**
 
-![Tosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofmat&count_private=false&show_icons=true&theme=dark&&include_all_commits=true)
+![Tosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofmat&count_private=true&show_icons=true&theme=dark&&include_all_commits=true)
 
 **My Top Languages**
 
@@ -20,5 +20,5 @@ When I'm not doing anything tech, I am admiring amazing interior designs, photog
   - 💬 Ask me about Javascript, Typescript, React, Vue.Js, WordPress, CSS.
   - 📫 How to reach me: tosinogunfowote.com
   - 😄 Pronouns: Him/He
-  - ⚡ Fun fact: I never owned any video game. I could be on the internet the whole day. And yeah I love travelling and trying out new things.
+  - ⚡ Fun fact: I could be on the internet the whole day. And yeah I love travelling and trying out new things.
 
