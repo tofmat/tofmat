@@ -9,9 +9,11 @@ I play with Javascript and Typescript using ReactJS and Vue.Js. I love dipping m
 
 ![Tosin's GitHub stats](github-readme-stats-tau-nine-43.vercel.app/api?username=tofmat&count_private=true&show_icons=true&theme=dark&&include_all_commits=true)
 
+![Tosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofmat&count_private=true&show_icons=true&theme=dark&&include_all_commits=true)
+
 **My Top Languages**
 
-[![Top Langs](github-readme-stats-tau-nine-43.vercel.app/api/top-langs/?username=tofmat&count_private=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-tau-nine-43.vercel.app/api/top-langs/?username=tofmat&count_private=true&langs_count=5)]
 
 When I'm not doing anything tech, I am admiring amazing interior designs, photography, or seeing movies.
 
