@@ -5,6 +5,7 @@ I am a frontend engineer based in Nigeria with an eye for a number of things. I'
 
 I play with Javascript and Typescript using ReactJS and Vue.Js. I love dipping my feets in super cool Javascript frameworks and CSS tricks. I have more than 4 years of experience coding professionally. I'm also a big advocate for WordPress and the no code community.
 
+/**
 **General Statistics**
 
 ![Tosin's GitHub stats](https://github-readme-stats-tau-nine-43.vercel.app/api?username=tofmat&count_private=true&show_icons=true&theme=dark&&include_all_commits=true)
@@ -16,6 +17,8 @@ I play with Javascript and Typescript using ReactJS and Vue.Js. I love dipping m
 
 **My Coding Stats**
 ![Tofmat's wakatime stats](https://github-readme-stats-tau-nine-43.vercel.app/api/wakatime?username=tofmat)
+
+**/
 
 
 When I'm not doing anything tech, I am admiring amazing interior designs, photography, or seeing movies.
